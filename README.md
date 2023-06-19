@@ -5,7 +5,7 @@
 {
   "name" : "Joseph Heinz",
   "languages" : ["Python", "HTML", "JavaScript", "CSS", "Java"],
-  "working_on" : "Electron RPG",
+  "working_on" : "JS RPG IV",
   "socials" : {
     "dev.to" : "https://dev.to/robbit",
     "stack_overflow" : "https://stackoverflow.com/users/18557366/joseph-heinz",
